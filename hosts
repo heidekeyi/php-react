@@ -20,11 +20,9 @@
 #	127.0.0.1 localhost
 #	::1 localhost
 
-
 # 220.181.38.149 gc.kis.v2.scr.kaspersky-labs.com
 # 220.181.38.149 me.kis.v2.scr.kaspersky-labs.com
 # 220.181.38.149 ff.kis.v2.scr.kaspersky-labs.com
-
 
 127.0.0.1 daily.cn
 127.0.0.1 activate.navicat.com
