@@ -24,9 +24,11 @@
 # 220.181.38.149 me.kis.v2.scr.kaspersky-labs.com
 # 220.181.38.149 ff.kis.v2.scr.kaspersky-labs.com
 
+127.0.0.1 daily.cn
+127.0.0.1 dev.cn
+
 0.0.0.0 licensing.ultraedit.com
 0.0.0.0 licensing2.ultraedit.com
-127.0.0.1 daily.cn
 127.0.0.1 activate.navicat.com
 127.0.0.1 localhost
 ::1 localhost
